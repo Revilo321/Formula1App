@@ -1,0 +1,14 @@
+.jumbotron {
+    background-color: rgb(211, 203, 203);
+    height : 20em; 
+}
+.navbar {
+    background-color: white;
+}
+.nav-item a{
+    
+    color:black;
+}
+.nav-item a:hover{
+    text-decoration: none;
+}
